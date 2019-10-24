@@ -30,7 +30,7 @@ public class main {
 
     public static void main(String[] args) {
 
-        int talla = 0;
+        int talla;
 
         try {
             System.out.print("Talla de zapato ........: ");
